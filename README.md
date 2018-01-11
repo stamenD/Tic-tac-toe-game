@@ -1,4 +1,4 @@
-# Tick-Tock-game
+# Tic-tac-toe-game
 
 
 ## How to run:
